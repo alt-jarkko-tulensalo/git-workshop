@@ -8,3 +8,5 @@
 6. git commit README.md
 7. git add remote origin
 8. git push
+
+git checkout -b "jarkko/merge-conflict"
