@@ -6,7 +6,8 @@
 4. git init
 5. git add README.md
 6. git commit README.md
-7. git add remote origin
-8. git push
+7. git branch -M dev
+8. git remote add origin <git-repo>
+9. git push -u origin dev
 
 git checkout -b "jarkko/merge-conflict"
